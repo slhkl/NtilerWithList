@@ -1,0 +1,27 @@
+C:\Users\Betül Taşköprü\source\repos\NtierProject\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Betül Taşköprü\source\repos\NtierProject\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Betül Taşköprü\source\repos\NtierProject\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Betül Taşköprü\source\repos\NtierProject\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Betül Taşköprü\source\repos\NtierProject\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Betül Taşköprü\source\repos\NtierProject\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\Betül Taşköprü\source\repos\NtierProject\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Betül Taşköprü\source\repos\NtierProject\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Detay\Desktop\NtierProject\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Detay\Desktop\NtierProject\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Detay\Desktop\NtierProject\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Detay\Desktop\NtierProject\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\Detay\Desktop\NtierProject\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Detay\Desktop\NtierProject\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Detay\Desktop\NtierProject\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\Detay\Desktop\NtierProject\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Detay\Desktop\NtierProject\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Detay\source\repos\NtierProject\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Detay\source\repos\NtierProject\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Detay\source\repos\NtierProject\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Detay\source\repos\NtierProject\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\Detay\source\repos\NtierProject\Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Detay\source\repos\NtierProject\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Detay\source\repos\NtierProject\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Detay\source\repos\NtierProject\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\Detay\source\repos\NtierProject\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Detay\source\repos\NtierProject\Data\obj\Debug\netcoreapp3.1\Data.pdb

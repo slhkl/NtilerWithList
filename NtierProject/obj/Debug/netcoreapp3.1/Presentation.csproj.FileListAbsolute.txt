@@ -1,0 +1,80 @@
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.csproj.AssemblyReference.cache
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.AssemblyInfoInputs.cache
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.AssemblyInfo.cs
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Presentation.exe
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Presentation.deps.json
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Presentation.runtimeconfig.json
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Presentation.runtimeconfig.dev.json
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Presentation.dll
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Presentation.pdb
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\staticwebassets\Presentation.StaticWebAssets.Manifest.cache
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\staticwebassets\Presentation.StaticWebAssets.xml
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\Presentation.styles.css
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.csproj.CopyComplete
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.dll
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.pdb
+C:\Users\Betül Taşköprü\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.genruntimeconfig.cache
+C:\Users\Detay\Desktop\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Detay\Desktop\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Detay\Desktop\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Presentation.exe
+C:\Users\Detay\Desktop\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Presentation.deps.json
+C:\Users\Detay\Desktop\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Presentation.runtimeconfig.json
+C:\Users\Detay\Desktop\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Presentation.runtimeconfig.dev.json
+C:\Users\Detay\Desktop\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Presentation.dll
+C:\Users\Detay\Desktop\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Presentation.pdb
+C:\Users\Detay\Desktop\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Detay\Desktop\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Detay\Desktop\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Detay\Desktop\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Detay\Desktop\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Detay\Desktop\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Detay\Desktop\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.csproj.AssemblyReference.cache
+C:\Users\Detay\Desktop\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.AssemblyInfoInputs.cache
+C:\Users\Detay\Desktop\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.AssemblyInfo.cs
+C:\Users\Detay\Desktop\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Detay\Desktop\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Detay\Desktop\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\staticwebassets\Presentation.StaticWebAssets.Manifest.cache
+C:\Users\Detay\Desktop\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\staticwebassets\Presentation.StaticWebAssets.xml
+C:\Users\Detay\Desktop\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\Presentation.styles.css
+C:\Users\Detay\Desktop\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\Detay\Desktop\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.csproj.CopyComplete
+C:\Users\Detay\Desktop\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.dll
+C:\Users\Detay\Desktop\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.pdb
+C:\Users\Detay\Desktop\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.genruntimeconfig.cache
+C:\Users\Detay\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Detay\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Detay\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Presentation.exe
+C:\Users\Detay\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Presentation.deps.json
+C:\Users\Detay\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Presentation.runtimeconfig.json
+C:\Users\Detay\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Presentation.runtimeconfig.dev.json
+C:\Users\Detay\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Presentation.dll
+C:\Users\Detay\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Presentation.pdb
+C:\Users\Detay\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Detay\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Detay\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Detay\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Detay\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Detay\source\repos\NtierProject\NtierProject\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Detay\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.csproj.AssemblyReference.cache
+C:\Users\Detay\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.AssemblyInfoInputs.cache
+C:\Users\Detay\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.AssemblyInfo.cs
+C:\Users\Detay\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Detay\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Detay\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\staticwebassets\Presentation.StaticWebAssets.Manifest.cache
+C:\Users\Detay\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\staticwebassets\Presentation.StaticWebAssets.xml
+C:\Users\Detay\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\Presentation.styles.css
+C:\Users\Detay\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\Detay\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.csproj.CopyComplete
+C:\Users\Detay\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.dll
+C:\Users\Detay\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.pdb
+C:\Users\Detay\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.genruntimeconfig.cache
+C:\Users\Detay\source\repos\NtierProject\NtierProject\obj\Debug\netcoreapp3.1\Presentation.GeneratedMSBuildEditorConfig.editorconfig

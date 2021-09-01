@@ -1,0 +1,37 @@
+C:\Users\Betül Taşköprü\source\repos\NtierProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Betül Taşköprü\source\repos\NtierProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Betül Taşköprü\source\repos\NtierProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\Betül Taşköprü\source\repos\NtierProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Betül Taşköprü\source\repos\NtierProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\Betül Taşköprü\source\repos\NtierProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Betül Taşköprü\source\repos\NtierProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Betül Taşköprü\source\repos\NtierProject\DataAccess\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Betül Taşköprü\source\repos\NtierProject\DataAccess\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Betül Taşköprü\source\repos\NtierProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\Betül Taşköprü\source\repos\NtierProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Betül Taşköprü\source\repos\NtierProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Detay\Desktop\NtierProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\Detay\Desktop\NtierProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Detay\Desktop\NtierProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Detay\Desktop\NtierProject\DataAccess\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Detay\Desktop\NtierProject\DataAccess\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Detay\Desktop\NtierProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Detay\Desktop\NtierProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Detay\Desktop\NtierProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\Detay\Desktop\NtierProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Detay\Desktop\NtierProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\Detay\Desktop\NtierProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Detay\Desktop\NtierProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Detay\source\repos\NtierProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\Detay\source\repos\NtierProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Detay\source\repos\NtierProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Detay\source\repos\NtierProject\DataAccess\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Detay\source\repos\NtierProject\DataAccess\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Detay\source\repos\NtierProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Detay\source\repos\NtierProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Detay\source\repos\NtierProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\Detay\source\repos\NtierProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Detay\source\repos\NtierProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\Detay\source\repos\NtierProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Detay\source\repos\NtierProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Detay\source\repos\NtierProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig

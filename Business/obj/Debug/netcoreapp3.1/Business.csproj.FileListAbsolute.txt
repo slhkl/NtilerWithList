@@ -1,0 +1,37 @@
+C:\Users\Betül Taşköprü\source\repos\NtierProject\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Betül Taşköprü\source\repos\NtierProject\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Betül Taşköprü\source\repos\NtierProject\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Betül Taşköprü\source\repos\NtierProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Betül Taşköprü\source\repos\NtierProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Betül Taşköprü\source\repos\NtierProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Betül Taşköprü\source\repos\NtierProject\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Betül Taşköprü\source\repos\NtierProject\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Detay\Desktop\NtierProject\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Detay\Desktop\NtierProject\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Detay\Desktop\NtierProject\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Detay\Desktop\NtierProject\Business\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Detay\Desktop\NtierProject\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Detay\Desktop\NtierProject\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Detay\Desktop\NtierProject\Business\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Detay\Desktop\NtierProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\Detay\Desktop\NtierProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Detay\Desktop\NtierProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Detay\Desktop\NtierProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Detay\Desktop\NtierProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Detay\Desktop\NtierProject\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Detay\Desktop\NtierProject\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Detay\source\repos\NtierProject\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Detay\source\repos\NtierProject\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Detay\source\repos\NtierProject\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Detay\source\repos\NtierProject\Business\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Detay\source\repos\NtierProject\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Detay\source\repos\NtierProject\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Detay\source\repos\NtierProject\Business\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Detay\source\repos\NtierProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\Detay\source\repos\NtierProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Detay\source\repos\NtierProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Detay\source\repos\NtierProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Detay\source\repos\NtierProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Detay\source\repos\NtierProject\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Detay\source\repos\NtierProject\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Detay\source\repos\NtierProject\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
